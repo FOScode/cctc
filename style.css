@@ -116,7 +116,7 @@ figcaption {
     max-width: 1200px;
     height: 570px;
     margin-top: 70px;
-    background-image: url('/img-locations-background.webp');
+    background-image: url('img-locations-background.webp');
     background-size:cover;
 }
 
