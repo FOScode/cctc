@@ -48,7 +48,8 @@ body {
 }
 
 main {
-    margin: 0 auto;
+    margin: auto;
+    margin-top: 69px;
     max-width: 1200px;
 }
 
@@ -80,7 +81,7 @@ main {
 
 /* MIDDLE SECTION */
 #middle-section {
-    margin: 0 auto;
+    margin: auto;
     margin-top: 70px;
     max-width: 1000px;
 }
